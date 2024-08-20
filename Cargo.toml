@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "boolish-code",
+    "boolish-macro",
+    "boolish-example",
+]
